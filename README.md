@@ -1,6 +1,4 @@
 # eyeLock
-Creating a smart home device that opens your door using facial recognition.
-
-test1
+Creating a smart home device that opens your door using facial recognition. test111
 
  
